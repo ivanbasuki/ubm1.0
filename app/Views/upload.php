@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Import Excel Codeigniter</title>
+	<title>Import cel Codeigniter</title>
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
 </head>
 <body>
